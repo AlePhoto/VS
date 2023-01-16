@@ -1,0 +1,83 @@
+﻿#mosaic {
+	background-color:	#f0edea;
+	background-image:	url(../images/);
+	border-color:	#000000;
+	border-width:	1px;
+}
+
+#progressbar {
+	background-color:	#980000;
+	border-color:	#000000;
+	border-width:	2px;
+	color:	#fff1e2;
+}
+#progressbar	div.progress {
+	background-color:	#57c611;
+	color:	#f3f3f3;
+}
+
+
+#progressbarWrapper {
+	background-color:	#a2a2b5;
+	border-color:	#e3e3e3;
+	border-width:	4px;
+	color:	#ffffff;
+	font-family:	Georgia, "DejaVu Serif", Norasi, serif;
+}
+
+#screenIndex {
+	background-color:	#0c0e14;
+	background-image:	url(../images/);
+	background-size:	cover;
+}
+
+#screenPhoto {
+	background-color:	#0c0e14;
+	background-image:	url(../images/);
+	background-size:	cover;
+}
+
+.mainPhoto {
+	border-color:	#000000;
+	border-width:	0px;
+}
+
+.thumbBox {
+	border-color:	#f0edea;
+	border-width:	7px;
+}
+.thumbBox	img {
+	border-color:	#2c2a2a;
+	border-width:	5px;
+}
+
+.thumbBox	img:hover {
+	border-color:	#85899d;
+}
+
+
+.toolbar {
+	background-color:	#111111;
+}
+
+div#cadrePhoto {
+	background-color:	#f0edea;
+	background-image:	url(../images/);
+	padding:	0px;
+}
+
+div#indexTitle {
+	color:	#0a0a3a;
+	font-family:	Times, "Times New Roman", "Liberation Serif", FreeSerif, serif;
+	font-size:	2.4em;
+	text-align:	left;
+	text-shadow:	4px 2px 4px rgba(150, 150, 150, 0.8);
+}
+
+div.photoCaption {
+	color:	#232323;
+	font-family:	Georgia, "DejaVu Serif", Norasi, serif;
+	font-size:	0.9em;
+	font-weight:	normal;
+}
+
